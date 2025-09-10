@@ -120,7 +120,7 @@ export default function App() {
           <motion.div whileHover={{ scale: 1.05 }} className="bg-gray-800 p-6 rounded-2xl shadow-lg transition">
             <FaGitAlt className="text-5xl mx-auto mb-4 text-gray-100" />
             <h3 className="text-xl font-bold text-yellow-300 mb-2">Tools</h3>
-            <p className="text-gray-300">, JWT, bcrypt.js,GitHub, Postman, Cloudinary, Stripe, Razorpay, Deployment</p>
+            <p className="text-gray-300"> JWT, bcrypt.js,GitHub, Postman, Cloudinary, Stripe, Razorpay, Deployment</p>
           </motion.div>
         </div>
       </section>
