@@ -10,7 +10,12 @@ export default function App() {
   const projects = [
     {
       title: "Bus Ticket Booking App",
-      desc: "Full-stack bus ticket booking system with MVC backend, JWT authentication, bcrypt password hashing, React frontend, Stripe integration.",
+      desc: "Developed a bus ticket booking system with a well-structured MVC architecture. Built the backend using
+ Node.js and Express.js with secure password hashing via bcrypt.js and authentication using JSON Web
+ Token (JWT). Designed a responsive and user-friendly React frontend, leveraging useState, useReducer, and
+ Context API for state management. Integrated an Admin Dashboard for operator verification, Stripe for
+ secure payment processing, and Nodemailer for automated email notifications. Thoroughly tested API
+ endpoints using Postman to ensure reliability and performance.",
       link: "https://github.com/aravindakm0207/Bus-Booking-App",
     },
     {
