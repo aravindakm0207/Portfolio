@@ -87,7 +87,9 @@ endpoints using Postman to ensure reliability and performance.`,
           transition={{ delay: 1, duration: 1 }}
           className="text-gray-300 max-w-2xl text-lg leading-relaxed mb-6"
         >
-          Hi, I'm Aravinda K M, a passionate Full Stack Developer specializing in MongoDB, Express.js, React, and Node.js, along with modern technologies . I build scalable, efficient, and user-friendly web applications.
+      Hi, I'm Aravinda K M, a passionate Full Stack Developer specializing in MongoDB, Express.js, React, and Node.js, along with modern web technologies. I build scalable, efficient, and user-friendly web applications, focusing on both frontend and backend development.
+
+I have experience in building and scaling production-ready platforms, with expertise in backend architecture, authentication, role-based access systems, payment integrations, and database optimization. I am skilled at collaborating with teams and delivering secure, high-performance solutions on time. Experienced in Agile methodologies and developing RESTful APIs, I aim to create applications that balance functionality, security, and excellent user experience
         </motion.p>
         <motion.a
           href="#projects"
