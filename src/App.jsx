@@ -20,7 +20,12 @@ endpoints using Postman to ensure reliability and performance.`,
     },
     {
       title: "Expense App",
-      desc: "MERN stack expense management app with authentication, Postman-tested APIs, React frontend using Context API & Redux.",
+      desc: ` Built a task management web application using the MERN stack with a well-organized MVC structure for the
+ backend. Developed models, validations, and controllers with Node.js and Express, integrating bcrypt.js for
+ secure password hashing and JSON Web Token (JWT) for authentication. Thoroughly tested APIs using
+ Postman. Implemented a dynamic and responsive frontend with React, leveraging useState for local state
+ management, useReducer for complex state logic, useEffect for handling side effects, and Context API along
+ with Redux for centralized state management. Deployed backend code in render & frontend in vercel.`,
       link: "https://expense-app-frontend-one.vercel.app",
     },
   ];
