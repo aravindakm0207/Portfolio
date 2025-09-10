@@ -82,7 +82,7 @@ export default function App() {
           transition={{ delay: 1, duration: 1 }}
           className="text-gray-300 max-w-2xl text-lg leading-relaxed mb-6"
         >
-          Hi, I'm Aravinda K M, a passionate Full Stack Developer specializing in MongoDB, Express.js, React, and Node.js, along with modern technologies like Next.js and MySQL. I build scalable, efficient, and user-friendly web applications.
+          Hi, I'm Aravinda K M, a passionate Full Stack Developer specializing in MongoDB, Express.js, React, and Node.js, along with modern technologies . I build scalable, efficient, and user-friendly web applications.
         </motion.p>
         <motion.a
           href="#projects"
