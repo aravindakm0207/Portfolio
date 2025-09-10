@@ -169,7 +169,7 @@ I have experience in building and scaling production-ready platforms, with exper
           </p>
           <p className="text-gray-200 text-lg flex items-center justify-center gap-2">
             <FaLinkedin className="text-blue-500" />
-            <a href="https://www.linkedin.com/in/aravindakm0207" target="_blank" rel="noreferrer" className="hover:text-yellow-300 transition">
+            <a href="https://www.linkedin.com/in/aravinda-k-m-91495a21b/" target="_blank" rel="noreferrer" className="hover:text-yellow-300 transition">
               LinkedIn
             </a>
           </p>
